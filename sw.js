@@ -10,7 +10,7 @@
  * Normalmente se cambia el número
  * de la versión cuando cambia el
  * contenido de los archivos. */
-const VERSION = "1.01"
+const VERSION = "1.02"
 
 /** Nombre del archivo de cache. */
 const CACHE = "ejemploPWA"
